@@ -118,8 +118,14 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-
 **Output**
+
+<img width="622" height="711" alt="512492458-c681ef87-9c0e-4607-8a8e-98bb1dd78397" src="https://github.com/user-attachments/assets/da225bb1-6719-4b79-82f2-6249295ae8a2" />
+
+<img width="830" height="534" alt="512492567-845b1b1c-19a5-4713-86d7-e127e1cd9558" src="https://github.com/user-attachments/assets/4b56c97f-9770-4bc9-acf0-d39596ec3465" />
+
+<img width="1285" height="667" alt="512492645-99b6c2aa-ccaa-4e4f-94c7-d2b33bb1d54f" src="https://github.com/user-attachments/assets/e3c061d3-9eeb-479f-b4ac-4c69097bddbb" />
+
 
 
 **Result**
